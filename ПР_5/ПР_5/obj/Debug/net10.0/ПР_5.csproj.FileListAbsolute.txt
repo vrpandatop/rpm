@@ -1,0 +1,28 @@
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_5\ПР_5\bin\Debug\net10.0\ПР_5.exe
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_5\ПР_5\bin\Debug\net10.0\ПР_5.deps.json
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_5\ПР_5\bin\Debug\net10.0\ПР_5.runtimeconfig.json
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_5\ПР_5\bin\Debug\net10.0\ПР_5.dll
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_5\ПР_5\bin\Debug\net10.0\ПР_5.pdb
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_5\ПР_5\obj\Debug\net10.0\ПР_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_5\ПР_5\obj\Debug\net10.0\ПР_5.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_5\ПР_5\obj\Debug\net10.0\ПР_5.AssemblyInfo.cs
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_5\ПР_5\obj\Debug\net10.0\ПР_5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_5\ПР_5\obj\Debug\net10.0\ПР_5.dll
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_5\ПР_5\obj\Debug\net10.0\refint\ПР_5.dll
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_5\ПР_5\obj\Debug\net10.0\ПР_5.pdb
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_5\ПР_5\obj\Debug\net10.0\ПР_5.genruntimeconfig.cache
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_5\ПР_5\obj\Debug\net10.0\ref\ПР_5.dll
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_5\ПР_5\bin\Debug\net10.0\ПР_5.exe
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_5\ПР_5\bin\Debug\net10.0\ПР_5.deps.json
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_5\ПР_5\bin\Debug\net10.0\ПР_5.runtimeconfig.json
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_5\ПР_5\bin\Debug\net10.0\ПР_5.dll
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_5\ПР_5\bin\Debug\net10.0\ПР_5.pdb
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_5\ПР_5\obj\Debug\net10.0\ПР_5.GeneratedMSBuildEditorConfig.editorconfig
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_5\ПР_5\obj\Debug\net10.0\ПР_5.AssemblyInfoInputs.cache
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_5\ПР_5\obj\Debug\net10.0\ПР_5.AssemblyInfo.cs
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_5\ПР_5\obj\Debug\net10.0\ПР_5.csproj.CoreCompileInputs.cache
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_5\ПР_5\obj\Debug\net10.0\ПР_5.dll
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_5\ПР_5\obj\Debug\net10.0\refint\ПР_5.dll
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_5\ПР_5\obj\Debug\net10.0\ПР_5.pdb
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_5\ПР_5\obj\Debug\net10.0\ПР_5.genruntimeconfig.cache
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_5\ПР_5\obj\Debug\net10.0\ref\ПР_5.dll
