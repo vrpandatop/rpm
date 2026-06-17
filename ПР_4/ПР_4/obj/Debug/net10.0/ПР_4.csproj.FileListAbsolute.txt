@@ -1,0 +1,28 @@
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_4\ПР_4\bin\Debug\net10.0\ПР_4.exe
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_4\ПР_4\bin\Debug\net10.0\ПР_4.deps.json
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_4\ПР_4\bin\Debug\net10.0\ПР_4.runtimeconfig.json
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_4\ПР_4\bin\Debug\net10.0\ПР_4.dll
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_4\ПР_4\bin\Debug\net10.0\ПР_4.pdb
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_4\ПР_4\obj\Debug\net10.0\ПР_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_4\ПР_4\obj\Debug\net10.0\ПР_4.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_4\ПР_4\obj\Debug\net10.0\ПР_4.AssemblyInfo.cs
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_4\ПР_4\obj\Debug\net10.0\ПР_4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_4\ПР_4\obj\Debug\net10.0\ПР_4.dll
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_4\ПР_4\obj\Debug\net10.0\refint\ПР_4.dll
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_4\ПР_4\obj\Debug\net10.0\ПР_4.pdb
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_4\ПР_4\obj\Debug\net10.0\ПР_4.genruntimeconfig.cache
+C:\Users\Admin\Desktop\исп\Разработка программных модулей\ПР_4\ПР_4\obj\Debug\net10.0\ref\ПР_4.dll
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_4\ПР_4\obj\Debug\net10.0\ПР_4.GeneratedMSBuildEditorConfig.editorconfig
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_4\ПР_4\obj\Debug\net10.0\ПР_4.AssemblyInfoInputs.cache
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_4\ПР_4\obj\Debug\net10.0\ПР_4.AssemblyInfo.cs
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_4\ПР_4\obj\Debug\net10.0\ПР_4.csproj.CoreCompileInputs.cache
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_4\ПР_4\obj\Debug\net10.0\ПР_4.dll
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_4\ПР_4\obj\Debug\net10.0\refint\ПР_4.dll
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_4\ПР_4\obj\Debug\net10.0\ПР_4.pdb
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_4\ПР_4\bin\Debug\net10.0\ПР_4.exe
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_4\ПР_4\bin\Debug\net10.0\ПР_4.deps.json
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_4\ПР_4\bin\Debug\net10.0\ПР_4.runtimeconfig.json
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_4\ПР_4\bin\Debug\net10.0\ПР_4.dll
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_4\ПР_4\bin\Debug\net10.0\ПР_4.pdb
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_4\ПР_4\obj\Debug\net10.0\ПР_4.genruntimeconfig.cache
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_4\ПР_4\obj\Debug\net10.0\ref\ПР_4.dll
