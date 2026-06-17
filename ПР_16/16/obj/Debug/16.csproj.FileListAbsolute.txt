@@ -1,0 +1,14 @@
+E:\Разработка программных модулей\ПР_16\16\obj\Debug\16.csproj.AssemblyReference.cache
+E:\Разработка программных модулей\ПР_16\16\obj\Debug\_16.Form1.resources
+E:\Разработка программных модулей\ПР_16\16\obj\Debug\_16.Properties.Resources.resources
+E:\Разработка программных модулей\ПР_16\16\obj\Debug\16.csproj.GenerateResource.cache
+E:\Разработка программных модулей\ПР_16\16\obj\Debug\16.csproj.CoreCompileInputs.cache
+C:\Users\shute\Documents\rpm\ПР_16\16\obj\Debug\16.csproj.AssemblyReference.cache
+C:\Users\shute\Documents\rpm\ПР_16\16\obj\Debug\_16.Properties.Resources.resources
+C:\Users\shute\Documents\rpm\ПР_16\16\obj\Debug\16.csproj.GenerateResource.cache
+C:\Users\shute\Documents\rpm\ПР_16\16\obj\Debug\16.csproj.CoreCompileInputs.cache
+C:\Users\shute\Documents\rpm\ПР_16\16\bin\Debug\16.exe.config
+C:\Users\shute\Documents\rpm\ПР_16\16\bin\Debug\16.exe
+C:\Users\shute\Documents\rpm\ПР_16\16\bin\Debug\16.pdb
+C:\Users\shute\Documents\rpm\ПР_16\16\obj\Debug\16.exe
+C:\Users\shute\Documents\rpm\ПР_16\16\obj\Debug\16.pdb
