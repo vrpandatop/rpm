@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\drive-download-20260604T184702Z-3-001 (1)\\\u041F\u0420_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4401508B-9CBF-15D6-5720-EA67D15316FF}|\u041F\u0420_4\\\u041F\u0420_4.csproj|f:\\drive-download-20260604t184702z-3-001 (1)\\\u043F\u0440_4\\\u043F\u0440_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4401508B-9CBF-15D6-5720-EA67D15316FF}|\u041F\u0420_4\\\u041F\u0420_4.csproj|solutionrelative:\u043F\u0440_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\drive-download-20260604T184702Z-3-001 (1)\\\u041F\u0420_4\\\u041F\u0420_4\\Program.cs",
+              "RelativeDocumentMoniker": "\u041F\u0420_4\\Program.cs",
+              "ToolTip": "F:\\drive-download-20260604T184702Z-3-001 (1)\\\u041F\u0420_4\\\u041F\u0420_4\\Program.cs",
+              "RelativeToolTip": "\u041F\u0420_4\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T19:33:58.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

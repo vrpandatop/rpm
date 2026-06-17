@@ -1,0 +1,28 @@
+D:\Разработка программных модулей\ПР_6\ПР_6\obj\Debug\net10.0\ПР_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработка программных модулей\ПР_6\ПР_6\obj\Debug\net10.0\ПР_6.AssemblyInfoInputs.cache
+D:\Разработка программных модулей\ПР_6\ПР_6\obj\Debug\net10.0\ПР_6.AssemblyInfo.cs
+D:\Разработка программных модулей\ПР_6\ПР_6\obj\Debug\net10.0\ПР_6.csproj.CoreCompileInputs.cache
+D:\Разработка программных модулей\ПР_6\ПР_6\bin\Debug\net10.0\ПР_6.exe
+D:\Разработка программных модулей\ПР_6\ПР_6\bin\Debug\net10.0\ПР_6.deps.json
+D:\Разработка программных модулей\ПР_6\ПР_6\bin\Debug\net10.0\ПР_6.runtimeconfig.json
+D:\Разработка программных модулей\ПР_6\ПР_6\bin\Debug\net10.0\ПР_6.dll
+D:\Разработка программных модулей\ПР_6\ПР_6\bin\Debug\net10.0\ПР_6.pdb
+D:\Разработка программных модулей\ПР_6\ПР_6\obj\Debug\net10.0\ПР_6.dll
+D:\Разработка программных модулей\ПР_6\ПР_6\obj\Debug\net10.0\refint\ПР_6.dll
+D:\Разработка программных модулей\ПР_6\ПР_6\obj\Debug\net10.0\ПР_6.pdb
+D:\Разработка программных модулей\ПР_6\ПР_6\obj\Debug\net10.0\ПР_6.genruntimeconfig.cache
+D:\Разработка программных модулей\ПР_6\ПР_6\obj\Debug\net10.0\ref\ПР_6.dll
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_6\ПР_6\bin\Debug\net10.0\ПР_6.exe
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_6\ПР_6\bin\Debug\net10.0\ПР_6.deps.json
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_6\ПР_6\bin\Debug\net10.0\ПР_6.runtimeconfig.json
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_6\ПР_6\bin\Debug\net10.0\ПР_6.dll
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_6\ПР_6\bin\Debug\net10.0\ПР_6.pdb
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_6\ПР_6\obj\Debug\net10.0\ПР_6.GeneratedMSBuildEditorConfig.editorconfig
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_6\ПР_6\obj\Debug\net10.0\ПР_6.AssemblyInfoInputs.cache
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_6\ПР_6\obj\Debug\net10.0\ПР_6.AssemblyInfo.cs
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_6\ПР_6\obj\Debug\net10.0\ПР_6.csproj.CoreCompileInputs.cache
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_6\ПР_6\obj\Debug\net10.0\ПР_6.dll
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_6\ПР_6\obj\Debug\net10.0\refint\ПР_6.dll
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_6\ПР_6\obj\Debug\net10.0\ПР_6.pdb
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_6\ПР_6\obj\Debug\net10.0\ПР_6.genruntimeconfig.cache
+F:\drive-download-20260604T184702Z-3-001 (1)\ПР_6\ПР_6\obj\Debug\net10.0\ref\ПР_6.dll

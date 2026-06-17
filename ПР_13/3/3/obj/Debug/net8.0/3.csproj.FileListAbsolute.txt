@@ -1,0 +1,28 @@
+D:\Разработка программных модулей\ПР_13\3\3\bin\Debug\net8.0\3.exe
+D:\Разработка программных модулей\ПР_13\3\3\bin\Debug\net8.0\3.deps.json
+D:\Разработка программных модулей\ПР_13\3\3\bin\Debug\net8.0\3.runtimeconfig.json
+D:\Разработка программных модулей\ПР_13\3\3\bin\Debug\net8.0\3.dll
+D:\Разработка программных модулей\ПР_13\3\3\bin\Debug\net8.0\3.pdb
+D:\Разработка программных модулей\ПР_13\3\3\obj\Debug\net8.0\3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработка программных модулей\ПР_13\3\3\obj\Debug\net8.0\3.AssemblyInfoInputs.cache
+D:\Разработка программных модулей\ПР_13\3\3\obj\Debug\net8.0\3.AssemblyInfo.cs
+D:\Разработка программных модулей\ПР_13\3\3\obj\Debug\net8.0\3.csproj.CoreCompileInputs.cache
+D:\Разработка программных модулей\ПР_13\3\3\obj\Debug\net8.0\3.dll
+D:\Разработка программных модулей\ПР_13\3\3\obj\Debug\net8.0\refint\3.dll
+D:\Разработка программных модулей\ПР_13\3\3\obj\Debug\net8.0\3.pdb
+D:\Разработка программных модулей\ПР_13\3\3\obj\Debug\net8.0\3.genruntimeconfig.cache
+D:\Разработка программных модулей\ПР_13\3\3\obj\Debug\net8.0\ref\3.dll
+C:\Users\shute\Documents\rpm\ПР_13\3\3\bin\Debug\net8.0\3.exe
+C:\Users\shute\Documents\rpm\ПР_13\3\3\bin\Debug\net8.0\3.deps.json
+C:\Users\shute\Documents\rpm\ПР_13\3\3\bin\Debug\net8.0\3.runtimeconfig.json
+C:\Users\shute\Documents\rpm\ПР_13\3\3\bin\Debug\net8.0\3.dll
+C:\Users\shute\Documents\rpm\ПР_13\3\3\bin\Debug\net8.0\3.pdb
+C:\Users\shute\Documents\rpm\ПР_13\3\3\obj\Debug\net8.0\3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shute\Documents\rpm\ПР_13\3\3\obj\Debug\net8.0\3.AssemblyInfoInputs.cache
+C:\Users\shute\Documents\rpm\ПР_13\3\3\obj\Debug\net8.0\3.AssemblyInfo.cs
+C:\Users\shute\Documents\rpm\ПР_13\3\3\obj\Debug\net8.0\3.csproj.CoreCompileInputs.cache
+C:\Users\shute\Documents\rpm\ПР_13\3\3\obj\Debug\net8.0\3.dll
+C:\Users\shute\Documents\rpm\ПР_13\3\3\obj\Debug\net8.0\refint\3.dll
+C:\Users\shute\Documents\rpm\ПР_13\3\3\obj\Debug\net8.0\3.pdb
+C:\Users\shute\Documents\rpm\ПР_13\3\3\obj\Debug\net8.0\3.genruntimeconfig.cache
+C:\Users\shute\Documents\rpm\ПР_13\3\3\obj\Debug\net8.0\ref\3.dll
